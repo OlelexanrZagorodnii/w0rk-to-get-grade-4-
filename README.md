@@ -1,1 +1,3 @@
-# w0rk-to-get-grade-4-
+# work-to-get-grade-4
+Робота для того щоб отримати 4 бали для степухи :D
+Для покращення вигляду коду використовував розширення Prettier - Code formatter (https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
